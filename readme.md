@@ -8,9 +8,9 @@ You can [read more about last year's 2017 survey here](https://medium.freecodeca
 
 You can [discuss these datasets in freeCodeCamp's Data Science Gitter chatroom](https://gitter.im/FreeCodeCamp/DataScience).
 
-As of December 19, 2018, only the raw CSV dump has been uploaded (exported directly from Typeform). Here's the full survey dataset: [2018-new-coder-survey.csv](https://github.com/freeCodeCamp/2017-new-coder-survey/blob/master/raw-data/2018-new-coder-survey.csv).
+As of December 19, 2018, only the raw CSV dump has been uploaded (exported directly from Typeform). Here's the full survey dataset: [2018-new-coder-survey.csv](https://github.com/freeCodeCamp/2018-new-coder-survey/blob/master/raw-data/2018-new-coder-survey.csv).
 
-The cleaned up and combined data set will eventually be available in the `clean-data/` directory. Soon you will be able to check out the scripts we used to clean the data set in the scipts directory.
+The cleaned up and combined data set will eventually be available in the `clean-data/` directory. Soon you will be able to check out the scripts we used to clean the data set in the `/scipts` directory.
 
 ## License
 
